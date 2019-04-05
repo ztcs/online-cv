@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Xuanxuan Huang
     #tagline: Full Stack Developer
-    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hxx8094@sjtu.edu.cn
@@ -34,37 +34,33 @@ experiences:
       time: July 2018 - present
       company: Shanghai Jiaotong University, China
       details: |
-        multi-granularity domain adaptation
-
-          - Bullet point
-          - Bullet point
+          - multi-granularity domain adaptation
+          - 
 
     - role: Research Project, Case evaluation and temporary leave reduction collaborative technology
       time: July 2018 - present
       company: Shanghai Jiaotong University, China
       details: |
-        automated case review
-
-          - Bullet point
-          - Bullet point
+          - automated case review
+          - 
 
     - role: Undergradutae Thesis, Cloud data center virtual machine state prediction method research, Excellent Level(<5%)
       time: Nov 2017 - May 2018
       company: Shanghai Jiaotong University, China
       details: |
        
-          - Bullet point Problem:  Time series of CPU utilization prediction
-          - Bullet point Method:  Typical time series prediction models and deep learning models
-          - Bullet point Contribution:  Implementation of ARIMA, SARIMA , XGBoost, LSTM and Time-Response ResidualNetwork (T-ResNet) methods for CPU utilization dataset from Azure
+          - Problem:  Time series of CPU utilization prediction
+          - Method:  Typical time series prediction models and deep learning models
+          - Contribution:  Implementation of ARIMA, SARIMA , XGBoost, LSTM and Time-Response ResidualNetwork (T-ResNet) methods for CPU utilization dataset from Azure
           
     - role: Undergraduates Innovation Training Project, National Level(<3%)
       time: May 2016 - Sep 2017
       company: Jilin University, China
       details: |
           
-          - Bullet point Problem:  Research on the sustainable City Planning Algorithm
-          - Bullet point Method:  DETLBO and Local Search algorithm
-          - Bullet point Contribution:  Implementation and improvement of DE algorithm in urban planning.  The improvedmethod is to add chaotic local search strategy (DECLS).
+          - Problem:  Research on the sustainable City Planning Algorithm
+          - Method:  DETLBO and Local Search algorithm
+          - Contribution:  Implementation and improvement of DE algorithm in urban planning.  The improvedmethod is to add chaotic local search strategy (DECLS).
 
 projects:
     title: Projects
