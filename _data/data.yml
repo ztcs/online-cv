@@ -57,7 +57,7 @@ experiences:
           - Bullet point Method:  Typical time series prediction models and deep learning models
           - Bullet point Contribution:  Implementation of ARIMA, SARIMA , XGBoost, LSTM and Time-Response ResidualNetwork (T-ResNet) methods for CPU utilization dataset from Azure
           
-    - role Undergraduates Innovation Training Project, National Level(<3%)
+    - role: Undergraduates Innovation Training Project, National Level(<3%)
       time: May 2016 - Sep 2017
       company: Jilin University, China
       details: |
