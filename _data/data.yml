@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Xuanxuan Huang
     #tagline: Full Stack Developer
-    avatar: photo4.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hxx8094@sjtu.edu.cn
@@ -30,20 +30,23 @@ education:
 
 experiences:
 
-    - role: Research, Transfer learning for aspect level sentiment classification(in progress), July 2018 - present
+    - role: Research, Transfer learning for aspect level sentiment classification(in progress)
+            July 2018 - present
 
       company: Shanghai Jiaotong University, China
       details: |
           - multi-granularity domain adaptation
           - 
 
-    - role: Project, Case evaluation and temporary leave reduction collaborative technology, July 2018 - present 
+    - role: Project, Case evaluation and temporary leave reduction collaborative technology
+    July 2018 - present 
       company: Shanghai Jiaotong University, China
       details: |
           - automated case review
           - 
 
-    - role: Undergradutae Thesis, Cloud data center virtual machine state prediction method research, Excellent Level(<5%), Nov 2017 - May 2018
+    - role: Undergradutae Thesis, Cloud data center virtual machine state prediction method research, Excellent Level(<5%)
+    Nov 2017 - May 2018
       company: Shanghai Jiaotong University, China
       details: |
        
@@ -51,7 +54,8 @@ experiences:
           - Method:  Typical time series prediction models and deep learning models
           - Contribution:  Implementation of ARIMA, SARIMA , XGBoost, LSTM and Time-Response ResidualNetwork (T-ResNet) methods for CPU utilization dataset from Azure
           
-    - role: Undergraduates Innovation Training Project, National Level(<3%), May 2016 - Sep 2017
+    - role: Undergraduates Innovation Training Project, National Level(<3%)
+    May 2016 - Sep 2017
       company: Jilin University, China
       details: |
           
